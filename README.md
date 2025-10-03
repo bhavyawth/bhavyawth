@@ -1,9 +1,12 @@
 # Hi, I'm Bhavya ^_^ 
 ---
-> Currently working on [RepoHarbor](https://github.com/bhavyawth/repoharbor) 
 
 ## **About Me** 👾
-> Full-stack dev with a thing for data structures and algorithms.
+   
+- Full-stack dev with a thing for data structures and algorithms.
+- Currently working on [RepoHarbor](https://github.com/bhavyawth/repoharbor)  
+- Dabbling in **Next.js** and **RAG**-based AI workflows.
+- Forever exploring wild tech that I'll never learn.
 
 ## **Tech Stack** 💻
 
