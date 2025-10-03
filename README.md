@@ -1,22 +1,11 @@
+# Hi, I'm Bhavya ^_^ 
+---
+> Currently working on [RepoHarbor](https://github.com/bhavyawth/repoharbor) 
 
+## **About Me** 👾
+> Full-stack dev with a thing for data structures and algorithms.
 
-<!--
-**bhavyawth/bhavyawth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-**Tech Stack:**
+## **Tech Stack** 💻
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> 
@@ -46,5 +35,32 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> 
   <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" /> 
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-bad
-    </p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> 
+</p>
+
+---
+
+## **LeetCode Stats** 🧩
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Bhavya31B?theme=catppuccinMocha&font=Roboto&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
+## **Connect with me** 🌐
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhavyabhojwani31/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/u/bhavya31b" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="https://github.com/bhavyawth" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:bbhojwani31@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
